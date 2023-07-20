@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/CristianCazan0374/b437569f-11a6-4cc3-83ee-4a23d3e0bd14/8ba2c436-bd34-4b1f-96ac-e17e7c367e3f/_apis/work/boardbadge/d992029c-59e1-4b10-ba2a-cf22f558fb15)](https://dev.azure.com/CristianCazan0374/b437569f-11a6-4cc3-83ee-4a23d3e0bd14/_boards/board/t/8ba2c436-bd34-4b1f-96ac-e17e7c367e3f/Microsoft.RequirementCategory)
 # Bash for Beginners
 
 ## Overview
